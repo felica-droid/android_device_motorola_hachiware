@@ -384,6 +384,7 @@ vendor/etc/init/init.ets.rc
 vendor/lib/libets_teeclient_v2.so
 vendor/lib/vendor.qti.hardware.fingerprint@1.0.so
 vendor/lib64/com.fingerprints.extension@1.0.so
+vendor/lib64/com.motorola.hardware.biometric.fingerprint@1.0.so
 vendor/lib64/libets_teeclient_v2.so
 vendor/lib64/vendor.egistec.hardware.fingerprint@4.0.so
 vendor/lib64/vendor.qti.hardware.fingerprint@1.0.so
