@@ -1,3 +1,11 @@
+## About this
+
+つまりこれが、統合されたツリー…ってコト！？
+
+## Supported devices
+* moto g53j / g53y 5G
+* moto g52j 5G / II / SPECIAL
+
 Device configuration for Motorola moto g53 family
 =========================================
 
@@ -50,7 +58,6 @@ Additional features  | IP68 grade water/dust resistance, FeliCa (JP only), eSIM
 
 ## Device picture
 ![moto g52j / II / SPECIAL 5G](https://motorolajp.vtexassets.com/arquivos/ids/155703-800-auto?width=800&height=auto&aspect=true "moto g52j / II / SPECIAL 5G")
-
 
 ## Copyright
 
