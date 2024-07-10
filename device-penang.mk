@@ -19,6 +19,10 @@ PRODUCT_AAPT_PREF_CONFIG := 280dpi
 # Enable Virtual A/B
 TARGET_IS_VAB := true
 
+# Felica
+PRODUCT_COPY_FILES += \
+    $(call find-copy-subdir-files,*,$(LOCAL_PATH)/penang/configs/felica_sb,$(TARGET_COPY_OUT_PRODUCT)/etc/felica_sb)
+
 # Overlays
 PRODUCT_PACKAGES += \
     FrameworksResPenang \
