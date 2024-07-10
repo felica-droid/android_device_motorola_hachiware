@@ -5,5 +5,5 @@
 
 runtime_resource_overlay {
     name: "RegulatoryInfoOverlayCypfr",
-    product_specific: true,
+    vendor: true,
 }
